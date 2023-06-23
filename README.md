@@ -13,7 +13,7 @@ I have strong knowledge in HTML5, CSS, Sass, JavaScript, Node.js, Express, MySQL
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/erick-s%C3%A1nchez-correa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erick-s%c3%a1nchez-correa/" height="30" width="40" /></a>
-    <b>erick.sanchezcorrea@gmail.com</b>b>
+    <b>erick.sanchezcorrea@gmail.com</b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
